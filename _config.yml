@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Jie Peng's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Jie Peng"
 description              : &description "personal description"
 URL                      : "https://Lucas-PJ.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
