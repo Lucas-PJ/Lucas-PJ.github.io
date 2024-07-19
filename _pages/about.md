@@ -16,5 +16,6 @@ My research focuses on graph machine learning. I am currently working on the Ove
 
 Publication
 ======
-* Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks.
+* [Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks](https://lucas-pj.github.io/publication/BeyondOversmoothing).
+
   Jie Peng, Runlin Lei, Zhewei Wei. (**Accepted by CIKM 2024**)
