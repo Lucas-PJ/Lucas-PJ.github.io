@@ -17,42 +17,46 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Jie Peng (彭杰) is presently a third-year Ph.D. student at the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Prof. Zhewei Wei](https://weizhewei.com/). Prior to this, he received his B.E. degree in Software Engineering from the School of Software Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), in June 2023.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.09*: &nbsp;We are excited to introduce a new benchmark for Generative DyTAG Learning, [GDGB](https://gdgb-algo.github.io/).
+- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by KDD 2025. Many thanks to my co-authors! 
+- *2025.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. Many thanks to my co-authors! 
+- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by CIKM 2024. Many thanks to my co-authors! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+# 📝 Publications 
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
++ *TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer.* [[Paper](https://arxiv.org/abs/2506.00431)] <br>
+**Jie Peng**, Zhewei Wei\*, Yuhang Ye. <br>
+In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2025**) <br>
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
++ *Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks.* [[Paper](https://arxiv.org/abs/2408.03669)] <br>
+**Jie Peng**, Runlin Lei, Zhewei Wei\*.<br>
+In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management. (**CIKM 2024**) <br>
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
++ *GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning.* [[Paper](https://arxiv.org/abs/2507.03267)] <br>
+**Jie Peng**, Jiarui Ji, Runlin Lei, Zhewei Wei\*, Yongchao Liu, Chuntao Hong\*.<br>
+arXiv. (**Preprint**) <br>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
++ *Beyond Leakage and Complexity: Towards Realistic and Efficient Information Cascade Prediction.* [[Paper](https://arxiv.org/abs/2510.25348)] <br>
+**Jie Peng**, Rui Wang, Qiang Wang, Zhewei Wei\*, Bin Tong, Guan Wang.<br>
+arXiv. (**Preprint**) <br>
 
++ *TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics.* [[Paper](https://arxiv.org/abs/2408.03669)] <br>
+Lu Yi, **Jie Peng**, Yanping Zheng\*, Fengran Mo, Zhewei Wei\*, Yuhang Ye, Yue Zixuan, Zengfeng Huang.<br>
+In Proceedings of the 13th International Conference on Learning Representations. (**ICLR 2025**) <br>
+  
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025* Merit Student of Renmin University of China
+- *2024* Merit Student of Renmin University of China
+- *2023* Provincial Excellent Graduates
+- *2021* IELTS Overall Rating: 7.5
+- *2021* National Scholarship for Undergraduate Students
+- *2020* National Scholarship for Undergraduate Students
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2025.03 - Present*, Alimama, China.
