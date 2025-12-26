@@ -26,13 +26,12 @@ Jie Peng (彭杰) is presently a third-year Ph.D. student at the Gaoling School 
 - *2025.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. Many thanks to my co-authors! 
 - *2024.07*: &nbsp;🎉🎉 One paper has been accepted by CIKM 2024. Many thanks to my co-authors! 
 
-# 📝 Publications 
 
 # 📝 Publications 
 
 + *TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer.* [[Paper](https://arxiv.org/abs/2506.00431)] <br>
 **Jie Peng**, Zhewei Wei\*, Yuhang Ye. <br>
-In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery & Data Mining. (**KDD 2025**) <br>
+In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD 2025**) <br>
 
 + *Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks.* [[Paper](https://arxiv.org/abs/2408.03669)] <br>
 **Jie Peng**, Runlin Lei, Zhewei Wei\*.<br>
