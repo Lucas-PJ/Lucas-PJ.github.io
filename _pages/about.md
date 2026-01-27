@@ -21,6 +21,7 @@ Jie Peng (彭杰) is presently a third-year Ph.D. student at the Gaoling School 
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2026. Many thanks to my co-authors! 
 - *2025.09*: &nbsp;We are excited to introduce a new benchmark for Generative DyTAG Learning, [GDGB](https://gdgb-algo.github.io/).
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by KDD 2025. Many thanks to my co-authors! 
 - *2025.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. Many thanks to my co-authors! 
@@ -29,6 +30,10 @@ Jie Peng (彭杰) is presently a third-year Ph.D. student at the Gaoling School 
 
 # 📝 Publications 
 
++ *GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning.* [[Paper](https://arxiv.org/abs/2507.03267)] <br>
+**Jie Peng**, Jiarui Ji, Runlin Lei, Zhewei Wei\*, Yongchao Liu, Chuntao Hong\*.<br>
+In Proceedings of the 14th International Conference on Learning Representations. (**ICLR 2026**) <br>
+
 + *TIDFormer: Exploiting Temporal and Interactive Dynamics Makes A Great Dynamic Graph Transformer.* [[Paper](https://arxiv.org/abs/2506.00431)] <br>
 **Jie Peng**, Zhewei Wei\*, Yuhang Ye. <br>
 In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining. (**KDD 2025**) <br>
@@ -36,10 +41,6 @@ In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data
 + *Beyond Over-smoothing: Uncovering the Trainability Challenges in Deep Graph Neural Networks.* [[Paper](https://arxiv.org/abs/2408.03669)] <br>
 **Jie Peng**, Runlin Lei, Zhewei Wei\*.<br>
 In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management. (**CIKM 2024**) <br>
-
-+ *GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning.* [[Paper](https://arxiv.org/abs/2507.03267)] <br>
-**Jie Peng**, Jiarui Ji, Runlin Lei, Zhewei Wei\*, Yongchao Liu, Chuntao Hong\*.<br>
-arXiv. (**Preprint**) <br>
 
 + *Beyond Leakage and Complexity: Towards Realistic and Efficient Information Cascade Prediction.* [[Paper](https://arxiv.org/abs/2510.25348)] <br>
 **Jie Peng**, Rui Wang, Qiang Wang, Zhewei Wei\*, Bin Tong, Guan Wang.<br>
