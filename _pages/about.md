@@ -30,6 +30,10 @@ Jie Peng (彭杰) is presently a third-year Ph.D. student at the Gaoling School 
 
 # 📝 Publications 
 
++ *Can Generative Recommendation Reach Cold Items? A Temporal Perspective on Semantic-ID Generation.* [[Paper](https://arxiv.org/abs/2607.21101)] <br>
+**Jie Peng**, Yanping Zheng, Zhewei Wei\*, Bin Tong, Guan Wang, Bo Zheng.<br>
+arXiv. (**Preprint**) <br>
+
 + *GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning.* [[Paper](https://arxiv.org/abs/2507.03267)] <br>
 **Jie Peng**, Jiarui Ji, Runlin Lei, Zhewei Wei\*, Yongchao Liu, Chuntao Hong\*.<br>
 In Proceedings of the 14th International Conference on Learning Representations. (**ICLR 2026**) <br>
@@ -44,10 +48,6 @@ In Proceedings of the 33rd ACM International Conference on Information and Knowl
 
 + *Beyond Leakage and Complexity: Towards Realistic and Efficient Information Cascade Prediction.* [[Paper](https://arxiv.org/abs/2510.25348)] <br>
 **Jie Peng**, Rui Wang, Qiang Wang, Zhewei Wei\*, Bin Tong, Guan Wang, Bo Zheng.<br>
-arXiv. (**Preprint**) <br>
-
-+ *Can Generative Recommendation Reach Cold Items? A Temporal Perspective on Semantic-ID Generation.* [[Paper](https://arxiv.org/abs/2607.21101)] <br>
-**Jie Peng**, Yanping Zheng, Zhewei Wei\*, Bin Tong, Guan Wang, Bo Zheng.<br>
 arXiv. (**Preprint**) <br>
 
 + *TGB-Seq Benchmark: Challenging Temporal GNNs with Complex Sequential Dynamics.* [[Paper](https://arxiv.org/abs/2408.03669)] <br>
