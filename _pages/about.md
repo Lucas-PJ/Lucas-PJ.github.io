@@ -22,6 +22,7 @@ Jie Peng (彭杰) is presently a third-year Ph.D. student at the Gaoling School 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2026. Many thanks to my co-authors! 
+- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2026. Many thanks to my co-authors! 
 - *2025.09*: &nbsp;We are excited to introduce a new benchmark for Generative DyTAG Learning, [GDGB](https://gdgb-algo.github.io/).
 - *2025.05*: &nbsp;🎉🎉 One paper has been accepted by KDD 2025. Many thanks to my co-authors! 
 - *2025.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. Many thanks to my co-authors! 
@@ -29,6 +30,10 @@ Jie Peng (彭杰) is presently a third-year Ph.D. student at the Gaoling School 
 
 
 # 📝 Publications 
+
++ *GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning.* [[Paper](https://arxiv.org/abs/2507.03267)] <br>
+**Jie Peng**, Jiarui Ji, Runlin Lei, Zhewei Wei\*, Yongchao Liu, Chuntao Hong\*.<br>
+In Proceedings of the 14th International Conference on Learning Representations. (**ICLR 2026**) <br>
 
 + *GDGB: A Benchmark for Generative Dynamic Text-Attributed Graph Learning.* [[Paper](https://arxiv.org/abs/2507.03267)] <br>
 **Jie Peng**, Jiarui Ji, Runlin Lei, Zhewei Wei\*, Yongchao Liu, Chuntao Hong\*.<br>
