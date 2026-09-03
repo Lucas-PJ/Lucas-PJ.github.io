@@ -46,7 +46,7 @@ In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data
 **Jie Peng**, Runlin Lei, Zhewei Wei\*.<br>
 In Proceedings of the 33rd ACM International Conference on Information and Knowledge Management. (**CIKM 2024**) <br>
 
-+ *Beyond Leakage and Complexity: Towards Realistic and Efficient Information Cascade Prediction.* [[Paper](https://arxiv.org/abs/2510.25348)] <br>
++ *From Leakage to Fidelity: Reliable Benchmarking for Temporal Cascade Prediction* [[Paper](https://arxiv.org/abs/2510.25348)] <br>
 **Jie Peng**, Rui Wang, Qiang Wang, Zhewei Wei\*, Bin Tong, Guan Wang, Bo Zheng.<br>
 arXiv. (**Preprint**) <br>
 
@@ -63,4 +63,5 @@ In Proceedings of the 13th International Conference on Learning Representations.
 - *2020* National Scholarship for Undergraduate Students
 
 # 💻 Internships
-- *2025.03 - Present*, Alimama, China.
+- *2025.03 - Present*, Alimama, Beijing, China.
+- *2026.08 - Present*, Huawei, Beijing, China.
