@@ -17,15 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jie Peng (彭杰) is presently a third-year Ph.D. student at the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Prof. Zhewei Wei](https://weizhewei.com/). Prior to this, he received his B.E. degree in Software Engineering from the School of Software Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), in June 2023.
+Jie Peng (彭杰) is presently a Ph.D. candidate (graduating June 2028) at the Gaoling School of Artificial Intelligence, [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Prof. Zhewei Wei](https://weizhewei.com/). Prior to this, he received his B.E. degree in Software Engineering from the School of Software Engineering, [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), in June 2023.
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2026. Many thanks to my co-authors! 
-- *2025.09*: &nbsp;We are excited to introduce a new benchmark for Generative DyTAG Learning, [GDGB](https://gdgb-algo.github.io/).
-- *2025.05*: &nbsp;🎉🎉 One paper has been accepted by KDD 2025. Many thanks to my co-authors! 
-- *2025.01*: &nbsp;🎉🎉 One paper has been accepted by ICLR 2025. Many thanks to my co-authors! 
-- *2024.07*: &nbsp;🎉🎉 One paper has been accepted by CIKM 2024. Many thanks to my co-authors! 
+<p class="highlight" style="color: #E74C3C; font-weight: 500; margin-bottom: 1rem;">
+  🚀 Expected to graduate from Renmin University of China in June 2028. Actively seeking internship opportunities!
+</p>
+<ul style="list-style: none; padding-left: 0;">
+  <li style="margin-bottom: 0.5rem;"><strong>2026.01</strong> &nbsp;🎉 Paper accepted at <strong>ICLR 2026</strong>. Thanks to my co-authors!</li>
+  <li style="margin-bottom: 0.5rem;"><strong>2025.09</strong> &nbsp;📢 Released <a href="https://gdgb-algo.github.io/"><strong>GDGB</strong></a>, a new benchmark for Generative DyTAG Learning.</li>
+  <li style="margin-bottom: 0.5rem;"><strong>2025.05</strong> &nbsp;🎉 Paper accepted at <strong>KDD 2025</strong>.</li>
+  <li style="margin-bottom: 0.5rem;"><strong>2025.01</strong> &nbsp;🎉 Paper accepted at <strong>ICLR 2025</strong>.</li>
+  <li style="margin-bottom: 0.5rem;"><strong>2024.07</strong> &nbsp;🎉 Paper accepted at <strong>CIKM 2024</strong>.</li>
+</ul>
 
 
 # 📝 Publications 
@@ -63,5 +68,5 @@ In Proceedings of the 13th International Conference on Learning Representations.
 - *2020* National Scholarship for Undergraduate Students
 
 # 💻 Internships
-- *2025.03 - Present*, Alimama, Beijing, China.
-- *2026.08 - Present*, Huawei, Beijing, China.
+- *2025.03 - Present*, Alimama, Beijing, China. Primarily engaged in research on Temporal Cascade Prediction and sales forecasting for private-domain e-commerce traffic scenarios.
+- *2026.08 - Present*, Huawei, Beijing, China. Focused on research into Generative Recommendation for Huawei Terminal Advertising.
